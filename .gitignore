@@ -1,0 +1,6 @@
+.env
+/storage/logs/*
+/storage/backups/*
+/storage/private/*
+/storage/tmp/*
+/vendor/
